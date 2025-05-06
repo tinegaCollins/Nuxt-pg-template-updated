@@ -1,0 +1,1 @@
+# Nuxt-pg-template-updated
